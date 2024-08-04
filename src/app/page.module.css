@@ -34,6 +34,11 @@
   border-radius: var(--border-radius);
 }
 
+.generating{
+  color: lightblue;
+  margin: 20px 0;
+}
+
 .code {
   font-weight: 700;
   font-family: var(--font-mono);
@@ -275,6 +280,7 @@
   margin-top: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
+  margin-bottom: 20px;
 }
 
 .buttonlink {
